@@ -10,3 +10,7 @@ label {
     display: block;
     padding: 10px;   
 }
+button {
+    background-color: firebrick;
+    border 2px black;
+}
